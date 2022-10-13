@@ -9,4 +9,4 @@ localhost:8000/genres/ get to list all genres in Ebook 4-localhost:8000/genres/g
 
 
 
-created a admin user with username=admin password=admin,only admin can   manage genre and adding books and other users can view the books and post comment
+created a admin user with username=admin password=admin,only admin can   manage genre and adding books and other users can view the books and post comment(review)
